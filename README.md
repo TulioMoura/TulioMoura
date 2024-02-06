@@ -28,6 +28,42 @@ LanguageConvergence and vervets-sdl: As a part of an college work in the Artific
 sorveteria-BD:
 This project was made in the DB class in the university, it's the implementation of some concepts, and written in NodeJS and React. More informations in repository Readme.
 
+uniform_cost: 
+Implementation of Uniform Cost Search for a known problem, part of the AI class homework.
+
+ant_colony & antColony-sdl:
+My try to implement simulation of Ant colony optimization, using c++ and javascript, currently incomplete, and I dont want to finish.
+
+trabalho_LP:
+Programming languages class final task. Business Rules included in repository Readme. Built in javascript. Just finished.
+
+repositoryEx & DAOxREPO:
+Two example repositories to use in an task from the OOP Seminar. Finished.
+
+Lanchonete:
+Final Job for the OOP class in the university, the final job has more documents than are present in this repo, I want to solve this problems and fix that in some time.
+
+deadline:
+OS class job sequencing problem implementation. Finished.
+
+ins_sort: 
+Implementation of Insertion Sort Algorithim, part of my AEDS II homework.
+
+binaryTree:
+Implementation of an binary tree, part of my AEDSIII homework.
+
+calculator: 
+My first public repository, made in 2020 during the pandemics. I don't like this repo. I make this and stopped coding for more than a year, and i don't agree with this decision.
+
+aluracord_react: repository created during one of the ReactJS Immersion from Alura's. hosted on vercel, is incomplete, and i want to finish in some time.
+
+Project1memfill: just fill your computer memory, just for fun, try to run. 
+
+cmdrend: project of an cmd renderer, to use in some projects, is stopped because now i knew sdl2 exists.
+
+
+
+
 MORE TO GO
 
 
