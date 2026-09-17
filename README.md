@@ -1,8 +1,8 @@
 # Hello!
 
-*Im a developer in development, Computer Technician, and student in Information Systems at UFVJM* <br>
-I love to learn new technologies, and discover new things,  mainly about hardware and computer evolution.<br>
-I want to be a backend developer, and for this, now I'm studyng nodejs, and in my list are, django and c#, and other related backend technologies, like, spring.
+Web Developer/SysAdmin/Embeeded Systems Developer
+I love to learn new technologies, and discover new things,  mainly about hardware, robotics and computer evolution.<br>
+Now, Im studying Embeeded Systems, and other robotics related technologies.
 
  And Im not a frontend fan... But i can do(not with the better quality), if necessary.
  
