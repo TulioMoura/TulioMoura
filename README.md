@@ -11,10 +11,14 @@ Now, Im studying Embeeded Systems, and other robotics related technologies.
  
 
  - [x] C++
+ - [x] C
  - [x] Javascript
  - [x] Java
  - [x] Node.js
  - [x] React.js
+ - [x] STM32
+ - [ ] ESP32
+ - [x] RP PICO
  - [ ] NEXT.js
  - [ ] C#
  - [ ] python
